@@ -1,5 +1,3 @@
-import userEvent from '@testing-library/user-event';
-import { setCurrentUser } from './user.actions';
 import { UserActionTypes } from './user.types';
 
 const INITIAL_STATE = {
